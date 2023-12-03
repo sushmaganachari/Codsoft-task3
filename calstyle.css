@@ -1,0 +1,31 @@
+
+.main{
+    border: 2px solid transparent;
+    border-radius: 10px;
+    border-color: black;
+    background-color: lightpink;
+  height: 200px;;
+ width: calc(30% - 50px);
+  padding: 10px;
+  left: 20px;
+}
+.main2{
+position: absolute;
+   left: 20px; 
+  width: calc(30% - 50px);
+  border: solid black 1px;
+  box-shadow: 1px 2px;
+  background-color: rgb(107, 121, 101);
+  padding: 6px;
+  text-align: center;
+  box-sizing: border-box;
+}
+.buttons{
+    position: absolute;
+    text-align: left;
+    background: transparent;
+    padding-top: 50px;
+    color: #87692d;
+    font-size: 2rem;
+    padding-left:100px;
+}
